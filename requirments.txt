@@ -1,0 +1,13 @@
+asgiref==3.8.1
+cvzone==1.6.1
+Django==5.2
+kanren==0.2.3
+logic==0.2.3
+multipledispatch==1.0.0
+numpy==2.2.5
+opencv-python==4.11.0.86
+PythonTurtle==0.3.2
+sqlparse==0.5.3
+toolz==1.0.0
+tzdata==2025.2
+unification==0.2.2
